@@ -13,9 +13,15 @@ Skwid <ben@techtux.be>    In this repository is located, free as in GPLv2,
 
 --------------------------------------------------------------------------------
 
+Everyone is free to use, share, modify these artworks without noticing me.
+This work is made during my free time and as a hobby.
+
+--------------------------------------------------------------------------------
+
 The image files in this repo can be redistributed and/or modified
 under the terms of:
 
 * The GNU General Public License as published by the Free Software Foundation;
   either version 2, or (at your option) any later version
   (read "COPYING" or "http://gnu.org/licenses/gpl-2.0.html")
+
